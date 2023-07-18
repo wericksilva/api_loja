@@ -15,7 +15,6 @@ public class Produto {
 	private String descricao;
 	
 	private String imagePath;
-	
 
 	public Long getId() {
 		return id;
